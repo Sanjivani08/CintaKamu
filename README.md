@@ -28,3 +28,5 @@ Now here's the fun part,
 6. **Commit** your changes :white_check_mark:
 7. **Push** your changes to your forked repo
 8. Make your beloved **Pull Request!!** :checkered_flag:
+
+ALL THE BEST
